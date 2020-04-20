@@ -8,10 +8,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Categories
 
-- [Mac] (#mac)
+* [Mac](#mac)
 
 ---
 
 ### Mac
 
-- [Mouse Acceleration] (mac/mouse-acceleration.md)
+- [Mouse Acceleration](mac/mouse-acceleration.md)
