@@ -8,9 +8,14 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Categories
 
+* [Java](#java)
 * [Mac](#mac)
 
 ---
+
+### Java
+
+- [Keystores for Signing Android Apps](java/keystore-for-signing-android-apps.md)
 
 ### Mac
 
