@@ -10,6 +10,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 * [Java](#java)
 * [Mac](#mac)
+* [Xamarin](#xamarin)
 
 ---
 
@@ -20,3 +21,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Mac
 
 - [Mouse Acceleration](mac/mouse-acceleration.md)
+
+### Xamarin
+
+- [AndroidManifest missing in CSPROJ When Create New Build Config](xamarin/androidmanifest-missing-after-new-build-config.md)
+
+
