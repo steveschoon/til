@@ -22,8 +22,11 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 - [Mouse Acceleration](mac/mouse-acceleration.md)
 
+### PowerShell
+
+- [Recursive Delete By LastWriteTime](powershell/recursive-delete-by-lastwritetime.md)
+
 ### Xamarin
 
 - [AndroidManifest missing in CSPROJ When Create New Build Config](xamarin/androidmanifest-missing-after-new-build-config.md)
-
 
