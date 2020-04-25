@@ -11,6 +11,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [Java](#java)
 * [Mac](#mac)
 * [Xamarin](#xamarin)
+* [ZSH](#zsh)
 
 ---
 
@@ -29,4 +30,8 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Xamarin
 
 - [AndroidManifest missing in CSPROJ When Create New Build Config](xamarin/androidmanifest-missing-after-new-build-config.md)
+
+### ZSH
+
+- [VI Mode Command Editing](zsh/vi-mode-command-editing.md)
 
