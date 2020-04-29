@@ -8,12 +8,17 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Categories
 
+* [C#](#csharp)
 * [Java](#java)
 * [Mac](#mac)
 * [Xamarin](#xamarin)
 * [ZSH](#zsh)
 
 ---
+
+### C\#
+
+- [Using statment for a specific class](csharp/using-statement-for-a-specific-class.md) 
 
 ### Java
 
