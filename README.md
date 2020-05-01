@@ -9,6 +9,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Categories
 
 * [C#](#csharp)
+* [GitHub](#github)
 * [Java](#java)
 * [Mac](#mac)
 * [Xamarin](#xamarin)
@@ -19,6 +20,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### C\#
 
 - [Using statment for a specific class](csharp/using-statement-for-a-specific-class.md) 
+
+### GitHub
+
+- [.gitignore repo](github/gitignore-repo.md)
 
 ### Java
 
