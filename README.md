@@ -19,6 +19,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### C\#
 
+- [Format Strings](csharp/format-string.md) 
 - [Using statment for a specific class](csharp/using-statement-for-a-specific-class.md) 
 
 ### GitHub
@@ -40,6 +41,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Xamarin
 
 - [AndroidManifest missing in CSPROJ When Create New Build Config](xamarin/androidmanifest-missing-after-new-build-config.md)
+- [AppCenter iOS Distribute Info.plist Requirements](xamarin/appcenter-ios-distribute-info-plist-requirements.md)
 
 ### ZSH
 
