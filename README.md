@@ -19,7 +19,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### C\#
 
-- [Format Strings](csharp/format-string.md) 
+- [Format Strings](csharp/format-strings.md) 
 - [Using statment for a specific class](csharp/using-statement-for-a-specific-class.md) 
 - [Write To Config Files](csharp/write-to-config-files.md)
 
