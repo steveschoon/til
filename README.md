@@ -13,6 +13,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [Java](#java)
 * [IIS](#iis)
 * [Mac](#mac)
+* [MS-SQL](#mssql)
 * [Xamarin](#xamarin)
 * [ZSH](#zsh)
 
@@ -39,6 +40,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Mac
 
 - [Mouse Acceleration](mac/mouse-acceleration.md)
+
+### MS-SQL
+
+- [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
 
 ### PowerShell
 
