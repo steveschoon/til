@@ -14,6 +14,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [IIS](#iis)
 * [Mac](#mac)
 * [MS-SQL](#mssql)
+* [Visual Studio](#visualstudio)
 * [Xamarin](#xamarin)
 * [ZSH](#zsh)
 
@@ -48,6 +49,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### PowerShell
 
 - [Recursive Delete By LastWriteTime](powershell/recursive-delete-by-lastwritetime.md)
+
+### Visual Studio
+
+- [VS2008 Compact Framework Project Does Not Open After Windows Upgrades](visualstudio/vs2008-compact-framework-project-does-not-open-after-windows-upgrades.md)
 
 ### Xamarin
 
