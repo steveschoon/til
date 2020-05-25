@@ -14,6 +14,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [IIS](#iis)
 * [Mac](#mac)
 * [MS-SQL](#mssql)
+* [VIM](#vim)
 * [Visual Studio](#visualstudio)
 * [Xamarin](#xamarin)
 * [ZSH](#zsh)
@@ -49,6 +50,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### PowerShell
 
 - [Recursive Delete By LastWriteTime](powershell/recursive-delete-by-lastwritetime.md)
+
+### VIM
+
+- [Visual Block Mode](vim/visual-block-mode.md)
 
 ### Visual Studio
 
