@@ -13,7 +13,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [Java](#java)
 * [IIS](#iis)
 * [Mac](#mac)
-* [MS-SQL](#mssql)
+* [MS-SQL](#ms-sql)
 * [VIM](#vim)
 * [Visual Studio](#visualstudio)
 * [Xamarin](#xamarin)
