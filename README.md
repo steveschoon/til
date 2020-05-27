@@ -46,6 +46,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### MS-SQL
 
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
+- [Configuring Max Memory](mssql/configuring-max-memory.md)
 
 ### PowerShell
 
