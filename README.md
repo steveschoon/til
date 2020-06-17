@@ -31,6 +31,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Git
 
+- [Delete Remote Tag](git/delete-remote-tag.md)
 - [Specify message and description for command line commit](git/specify-message-and-descripton-for-command-line-commit.md)
 
 ### GitHub
