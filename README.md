@@ -66,6 +66,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### VIM
 
 - [Visual Block Mode](vim/visual-block-mode.md)
+- [Window Splitting](vim/window-splitting.md)
 
 ### Visual Studio
 
