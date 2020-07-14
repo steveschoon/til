@@ -8,6 +8,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Categories
 
+* [Angular](#angular)
 * [C#](#csharp)
 * [Git](#git)
 * [GitHub](#github)
@@ -23,6 +24,11 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [ZSH](#zsh)
 
 ---
+
+### Angular
+
+- [Getting Started](angular/getting-started.md)
+- [Model Classes](angular/model-class.md)
 
 ### C\#
 
