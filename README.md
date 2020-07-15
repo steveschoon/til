@@ -8,6 +8,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Categories
 
+* [Android](#android)
 * [Angular](#angular)
 * [C#](#csharp)
 * [Git](#git)
@@ -25,6 +26,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ---
 
+### Android
+
+- [Install APK using ADB](android/install-apk-using-adb.md)
 ### Angular
 
 - [Getting Started](angular/getting-started.md)
