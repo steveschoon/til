@@ -21,6 +21,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [NodeJS](#nodejs)
 * [VIM](#vim)
 * [Visual Studio](#visualstudio)
+* [Windows](#windows)
 * [Xamarin](#xamarin)
 * [ZSH](#zsh)
 
@@ -87,6 +88,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Visual Studio
 
 - [VS2008 Compact Framework Project Does Not Open After Windows Upgrades](visualstudio/vs2008-compact-framework-project-does-not-open-after-windows-upgrades.md)
+
+### Windows
+
+- [Delete hiberfil.sys](windows/delete-hiberfil-sys.md)
 
 ### Xamarin
 
