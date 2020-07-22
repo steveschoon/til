@@ -67,6 +67,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 - [Configuring Max Memory](mssql/configuring-max-memory.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
+- [Query For Server Ip Address)(mssql/query-for-server-ip-address.md)
 
 ### MySQL
 
