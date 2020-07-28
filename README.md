@@ -23,6 +23,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [Visual Studio](#visualstudio)
 * [Windows](#windows)
 * [Xamarin](#xamarin)
+* [YouTrack](#youtrack)
 * [ZSH](#zsh)
 
 ---
@@ -65,6 +66,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### MS-SQL
 
 - [Configuring Max Memory](mssql/configuring-max-memory.md)
+- [Cursor Demo](mssql/cursor-demo.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
 - [Query For Server Ip Address)(mssql/query-for-server-ip-address.md)
@@ -98,6 +100,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 - [AndroidManifest missing in CSPROJ When Create New Build Config](xamarin/androidmanifest-missing-after-new-build-config.md)
 - [AppCenter iOS Distribute Info.plist Requirements](xamarin/appcenter-ios-distribute-info-plist-requirements.md)
+
+### YouTrack
+
+- [Commands via VCS Commits](youtrack/commands-via-vcs-commits.md)
 
 ### ZSH
 
