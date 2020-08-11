@@ -85,6 +85,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### VIM
 
+- [Pretty Format JSON](vim/pretty-format-json.md)
 - [Visual Block Mode](vim/visual-block-mode.md)
 - [Window Splitting](vim/window-splitting.md)
 
