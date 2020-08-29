@@ -96,6 +96,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Windows
 
 - [Delete hiberfil.sys](windows/delete-hiberfil-sys.md)
+- [Lock A File With Notepad](windows/lock-a-file-with-notepad.md)
 
 ### Xamarin
 
