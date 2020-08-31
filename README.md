@@ -13,6 +13,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [C#](#csharp)
 * [Git](#git)
 * [GitHub](#github)
+* [Hardware](#hardware)
 * [Java](#java)
 * [IIS](#iis)
 * [Mac](#mac)
@@ -50,6 +51,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### GitHub
 
 - [.gitignore repo](github/gitignore-repo.md)
+
+### Hardware
+- [Keychron F5 F6 Keys](hardware/keychron-f5-f6-keys.md)
 
 ### IIS
 
