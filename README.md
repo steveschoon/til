@@ -81,6 +81,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### NodeJs
 
+- [NPM Install](nodejs/npm-install.md)
 - [Proxy for IISExpress](nodejs/proxy-for-iisexpress.md)
 
 ### PowerShell
