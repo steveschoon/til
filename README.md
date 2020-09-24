@@ -65,6 +65,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Mac
 
+- [Emojii Picker](mac/emojii-picker.md)
 - [Mouse Acceleration](mac/mouse-acceleration.md)
 
 ### MS-SQL
@@ -72,8 +73,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 - [Configuring Max Memory](mssql/configuring-max-memory.md)
 - [Cursor Demo](mssql/cursor-demo.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
+- [Generate BCP Non-XML Format File](mssql/generate-bcp-non-xml-format-file.md)
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
-- [Query For Server Ip Address)(mssql/query-for-server-ip-address.md)
+- [Query For Server Ip Address](mssql/query-for-server-ip-address.md)
 
 ### MySQL
 
