@@ -71,6 +71,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### MS-SQL
 
 - [Configuring Max Memory](mssql/configuring-max-memory.md)
+- [Convert UTC to Local](mssql/convert-utc-to-local.md)
 - [Cursor Demo](mssql/cursor-demo.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
 - [Generate BCP Non-XML Format File](mssql/generate-bcp-non-xml-format-file.md)
