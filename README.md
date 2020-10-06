@@ -13,6 +13,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [C#](#csharp)
 * [Git](#git)
 * [GitHub](#github)
+* [Gmail](#gmail)
 * [Hardware](#hardware)
 * [Java](#java)
 * [IIS](#iis)
@@ -51,6 +52,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### GitHub
 
 - [.gitignore repo](github/gitignore-repo.md)
+
+### Gmail
+
+- [Mouse and Keyboard Shortcuts](gmail/mouse-and-keyboard-shortcuts.md)
 
 ### Hardware
 - [Keychron F5 F6 Keys](hardware/keychron-f5-f6-keys.md)
