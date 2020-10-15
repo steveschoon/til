@@ -80,6 +80,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 - [Cursor Demo](mssql/cursor-demo.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
 - [Generate BCP Non-XML Format File](mssql/generate-bcp-non-xml-format-file.md)
+- [Query Backup History](mssql/query-backup-history.md)
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
 - [Query For Server Ip Address](mssql/query-for-server-ip-address.md)
 
