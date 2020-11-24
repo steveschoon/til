@@ -47,6 +47,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Git
 
 - [Delete Remote Tag](git/delete-remote-tag.md)
+- [How To Rebase](git/how-to-rebase.md)
 - [Specify message and description for command line commit](git/specify-message-and-descripton-for-command-line-commit.md)
 
 ### GitHub
@@ -84,6 +85,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 - [Query Backup History](mssql/query-backup-history.md)
 - [Query For Maintenance Plan Logs](mssql/query-for-maintenance-plan-logs.md)
 - [Query For Server Ip Address](mssql/query-for-server-ip-address.md)
+- [Query Trigger Enabled or Disabled](mssql/query-trigger-enabled-or-disabled.md)
 
 ### MySQL
 
@@ -100,6 +102,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### VIM
 
+- [FAQ](vim/faq.md)
 - [Pretty Format JSON](vim/pretty-format-json.md)
 - [Visual Block Mode](vim/visual-block-mode.md)
 - [Window Splitting](vim/window-splitting.md)
