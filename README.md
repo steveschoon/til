@@ -10,6 +10,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 * [Android](#android)
 * [Angular](#angular)
+* [Azure](#azure)
 * [C#](#csharp)
 * [Git](#git)
 * [GitHub](#github)
@@ -31,12 +32,14 @@ A collection of all the little things I learn in the course of my daily work.  I
 ---
 
 ### Android
-
 - [Install APK using ADB](android/install-apk-using-adb.md)
-### Angular
 
+### Angular
 - [Getting Started](angular/getting-started.md)
 - [Model Classes](angular/model-class.md)
+
+### Azure
+- [Azure CLI Commands](azure/azure-cli-commands.md)
 
 ### C\#
 
