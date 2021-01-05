@@ -22,6 +22,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [MS-SQL](#ms-sql)
 * [MySQL](#mysql)
 * [NodeJS](#nodejs)
+* [PowerShell](#powershell)
 * [VIM](#vim)
 * [Visual Studio](#visualstudio)
 * [Windows](#windows)
@@ -101,6 +102,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### PowerShell
 
+- [Count Lines In File](powershell/count-lines-in-file.md)
 - [Recursive Delete By LastWriteTime](powershell/recursive-delete-by-lastwritetime.md)
 
 ### VIM
