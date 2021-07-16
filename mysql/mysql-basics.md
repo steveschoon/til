@@ -8,10 +8,11 @@
 |Stop|`mysql.server stop`|
 |Command line client|<pre>mysql -u**user** -p**pass**</pre>|
 
-
 ### Queries
-
-| Purpose | Query |
-| ------ | ------- |
-| List all databases | `SHOW DATABASES;` or `SHOW SCHEMA;`|
+- List all databases  
+	- `SHOW DATABASES;` or `SHOW SCHEMA;`
+- Create a user with native password auth
+	- `CREATE USER 'someuser'@'localhost' IDENTIFIED WITH mysql_native_password BY 'somepassword';`
+- Grant all permissions to a user on a database
+	- `GRANT ALL ON somedb.* TO 'someuser'@'localhost';`
 
