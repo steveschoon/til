@@ -26,6 +26,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [PowerShell](#powershell)
 * [VIM](#vim)
 * [Visual Studio](#visualstudio)
+* [VSCode](#vscode)
 * [Windows](#windows)
 * [Xamarin](#xamarin)
 * [YouTrack](#youtrack)
@@ -122,6 +123,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Visual Studio
 
 - [VS2008 Compact Framework Project Does Not Open After Windows Upgrades](visualstudio/vs2008-compact-framework-project-does-not-open-after-windows-upgrades.md)
+
+## Visual Studio Code
+
+- [Set Environment Variables from launch.json](vscode/env-vars-launch-json.md)
 
 ### Windows
 
