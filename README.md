@@ -21,6 +21,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 * [Mac](#mac)
 * [MS-SQL](#ms-sql)
 * [MySQL](#mysql)
+* [.Net 5](#net5)
 * [NodeJS](#nodejs)
 * [PowerShell](#powershell)
 * [VIM](#vim)
@@ -52,6 +53,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 - [Delete Remote Tag](git/delete-remote-tag.md)
 - [How To Rebase](git/how-to-rebase.md)
+- [Rename Branch](git/rename-branch.md)
 - [Specify message and description for command line commit](git/specify-message-and-descripton-for-command-line-commit.md)
 
 ### GitHub
@@ -94,6 +96,10 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### MySQL
 
 - [MySQL Basics](mysql/mysql-basics.md)
+
+### .Net5
+
+- [.Net 5 CLI](net5/cli.md)	
 
 ### NodeJs
 
