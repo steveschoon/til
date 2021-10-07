@@ -80,6 +80,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 - [Emojii Picker](mac/emojii-picker.md)
 - [Mouse Acceleration](mac/mouse-acceleration.md)
+- [Speed Up Time Machine](mac/speed-up-timemachine.md)j
 
 ### MS-SQL
 
