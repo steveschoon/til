@@ -127,6 +127,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ## Visual Studio Code
 
+- [Instal code command line](vscode/install-code-command-line.md)
 - [Set Environment Variables from launch.json](vscode/env-vars-launch-json.md)
 
 ### Windows
