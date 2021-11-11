@@ -125,8 +125,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 - [VS2008 Compact Framework Project Does Not Open After Windows Upgrades](visualstudio/vs2008-compact-framework-project-does-not-open-after-windows-upgrades.md)
 
-## Visual Studio Code
+## VSCode
 
+- [Enable Key Repeat](vscode/enable-key-repeat.md)
 - [Instal code command line](vscode/install-code-command-line.md)
 - [Set Environment Variables from launch.json](vscode/env-vars-launch-json.md)
 
