@@ -10,6 +10,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 * [Android](#android)
 * [Angular](#angular)
+* [AWS](#aws)
 * [Azure](#azure)
 * [C#](#csharp)
 * [Docker](#docker)
@@ -41,6 +42,9 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### Angular
 - [Getting Started](angular/getting-started.md)
 - [Model Classes](angular/model-class.md)
+
+### AWS
+- [AWS CLI Commands](aws/aws-cli-commands.md)
 
 ### Azure
 - [Azure CLI Commands](azure/azure-cli-commands.md)
