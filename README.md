@@ -120,6 +120,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### PowerShell
 
 - [Count Lines In File](powershell/count-lines-in-file.md)
+- [Escape Special Chars](powershell/escape-special-chars.md)
 - [Recursive Delete By LastWriteTime](powershell/recursive-delete-by-lastwritetime.md)
 - [Update Powershell](powershell/update-powershell.md)
 
