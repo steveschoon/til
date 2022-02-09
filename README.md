@@ -57,6 +57,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 
 ### Docker
 - [Installing On Ubuntu 20.04.02](docker/install-on-ubuntu-20.04.02.md)
+- [Restart After Error](docker/restart-after-error.md)
 - [Terminal Into Container](docker/terminal-into-container.md)
 
 ### Git
@@ -97,6 +98,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 - [Convert UTC to Local](mssql/convert-utc-to-local.md)
 - [Cursor Demo](mssql/cursor-demo.md)
 - [Formatting Numbers](mssql/formatting-numbers.md)
+- [Find Backup Progress Percent Complete](mssql/find-backup-progress-percent-complete.md)
 - [Generate BCP Non-XML Format File](mssql/generate-bcp-non-xml-format-file.md)
 - [Linux Server Control](mssql/linux-server-control.md)
 - [Query Backup History](mssql/query-backup-history.md)
