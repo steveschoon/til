@@ -109,6 +109,7 @@ A collection of all the little things I learn in the course of my daily work.  I
 ### MySQL
 
 - [MySQL Basics](mysql/mysql-basics.md)
+- [Timezone](mysql/timezone.md)
 
 ### .Net5
 
